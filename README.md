@@ -4,4 +4,6 @@ Make a new landmarks or a less points landmarks from dlib ibug_300W_large_face_l
 
 ibug_300W_large_face_landmark_dataset linking: http://dlib.net/files/data/
 
+source Image >  68 landmarks > 32 landmarks
+
 ![result](https://github.com/luckynote/ibug_300W_make_landmarks_tools/blob/master/Images/result.png)
