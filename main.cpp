@@ -10,9 +10,9 @@
 int main()
 {
     std::vector<ImageLabel> Imagelabels;
-    std::string parentPath = "/media/luckynote/Data/face-recognition/face-dataset/landmarks/68/ibug_300W_large_face_landmark_dataset/";
+    std::string parentPath = "../ibug_300W_large_face_landmark_dataset/";
     std::string xmlDocNameToRead = "testing_with_face_landmarks.xml";
-    std::string xmlDocNameToWrite = "testing_with_face_landmarks_1.xml";
+    std::string xmlDocNameToWrite = "testing_with_face_landmarks_new.xml";
     helper helper;
 
 
